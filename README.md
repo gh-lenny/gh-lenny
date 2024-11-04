@@ -1,7 +1,5 @@
 ## Hi there everyone :)
-I'm Leonardo but you can call me lenny, I'm just a chill guy on github.
-
-- C++
+I'm Leonardo but you can call me lenny, I'm just a chill guy on GitHub.
 
 
 <!--
