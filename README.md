@@ -1,5 +1,8 @@
 ## Hi there everyone.
 I'm just a chill guy on github.
+- C++
+- Python
+- Java
 <!--
 **gh-lenny/gh-lenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
