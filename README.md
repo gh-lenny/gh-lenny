@@ -1,7 +1,9 @@
-## Hi there everyone.
-I'm lenny but you can call me Leo, I'm just a chill guy on github.
+## Hi there everyone :)
+I'm Leonardo but you can call me lenny, I'm just a chill guy on github.
 
 - C++
+
+
 <!--
 **gh-lenny/gh-lenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
