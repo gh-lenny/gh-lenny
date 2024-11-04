@@ -1,9 +1,7 @@
-# Hi there everyone.
-## It's lenny here, just call me Leo though. I'm just a chill guy on github.
+## Hi there everyone.
+I'm lenny, I'm just a chill guy on github.
 
-> At the moment I just know C++
-> I'm looking forward to learning Java, Python and Bash.
-Furthermore I know some html/css.
+- C++
 <!--
 **gh-lenny/gh-lenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
