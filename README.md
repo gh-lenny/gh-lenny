@@ -1,8 +1,7 @@
 ## Hi there everyone.
 I'm just a chill guy on github.
 - C++
-- Python
-- Java
+- I'm looking forward to learning Java and Python.
 
 Furthermore I know some html/css.
 <!--
