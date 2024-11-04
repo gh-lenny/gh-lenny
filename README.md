@@ -1,5 +1,5 @@
 ## Hi there everyone.
-I'm lenny, I'm just a chill guy on github.
+I'm lenny but you can call me Leo, I'm just a chill guy on github.
 
 - C++
 <!--
