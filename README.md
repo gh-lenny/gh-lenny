@@ -1,5 +1,5 @@
 ## Hi there everyone.
-#It's lenny here, just call me Leo though. I'm just a chill guy on github.
+# It's lenny here, just call me Leo though. I'm just a chill guy on github.
 
 - C++
 - I'm looking forward to learning Java and Python.
