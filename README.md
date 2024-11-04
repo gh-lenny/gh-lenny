@@ -4,7 +4,7 @@ I'm just a chill guy on github.
 - Python
 - Java
 
-- Plus I know some html/css
+Furthermore I know some html/css.
 <!--
 **gh-lenny/gh-lenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
