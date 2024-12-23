@@ -1,8 +1,13 @@
-## Hi there everyone :)
-I'm Leonardo but you can call me lenny, I'm just a chill guy on GitHub.
+## whoami
+Hi there everyone I'm Leonardo but you can call me lenny, I'm just a chill guy on GitHub.:)
 
-- C++
-- Python
+## Programming languages
+- 🖥️ C++
+- 🐍 Python
+
+## More about me...
+- 🌱 Currently studying Computer Science.
+- 📚 I enjoy reading books and comics, listening to music, playing the guitar, and gaming. I'm a bit of a creative soul.
   
 <!--
 **gh-lenny/gh-lenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
